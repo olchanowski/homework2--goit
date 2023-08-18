@@ -1,0 +1,128 @@
+.body {
+  font-family: "Roboto", sans-serif;
+  color: #2e2f42;
+  background-color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+:root {
+  --main-color: #2196f3;
+  --secondary-color: white;
+  --third-color: #757575;
+  --fourth-color: #ffffff;
+  --fifth-color: #212121;
+  --sixth-color: #f5f4fa;
+  --seventh-color: #2f303a;
+  --eighth-color: #e5e5e5;
+  --nineth-color: #000000;
+  --tenth-color: black;
+  --eleven-color: #4d5ae5;
+  --twelwe-color: #2e2f42;
+  --thirtin-color: #434455;
+}
+.logo1 {
+  color: var(--main-color);
+  font-family: raleway;
+  font-size: 26px;
+  font-style: bold;
+  line-height: 31px;
+  line-height: 100%;
+  align: left;
+  vertical-align: top;
+  letter-spacing: 3%;
+  text-decoration: none;
+}
+.logo2 {
+  color: var(--fifth-color);
+ text-decoration: none;
+  font-style: bold;
+  font-size: 26px;
+  font-weight: 700;
+  font-family: raleway;
+  letter-spacing: 3%;
+  line-height: 31px;
+  line-height: 100%;
+  align: left;
+}
+.logo3 {
+  color: var(--main-color);
+  font-weight: 700;
+  font-style: bold;
+  font-size: 26px;
+  font-weight: 700;
+  font-family: raleway;
+  letter-spacing: 3%;
+  line-height: 31px;
+  line-height: 100%;
+  align: left;
+  text-decoration: none;
+}
+.logo4 {
+  font-weight: 700;
+  font-size: 26px;
+  font-style: bold;
+  font-family: raleway;
+  letter-spacing: 0.03em;
+  text-decoration: none;
+}
+
+.button {
+  cursor: pointer;
+  background-color: #e7e9fc;
+  color: #4d5ae5;
+}
+.button:hover {
+  background-color: #4d5ae5;
+  color: #ffffff;
+}
+.button-1 {
+  cursor: pointer;
+  background-color: #4d5ae5;
+  color: #ffffff;
+}
+.button-1:hover {
+}
+.button-1:focus {
+}
+a:hover {
+  color: #4d5ae5;
+}
+a:active {
+}
+a {
+  text-decoration: none;
+}
+.links {
+  cursor: pointer;
+}
+.links:hover {
+  color: #2196f3;
+}
+.link {
+  color: #2e2f42;
+  font-size: 16px;
+  letter-spacing: 2%;
+  font-family: robotto;
+  font-weight: 500;
+}
+.ul {
+  text-decoration: none;
+}
+.li {
+  text-decoration: none;
+}
+
+.h4 {
+  font-family: robotto;
+  font-weight: 500;
+  letter-spacing: 2%;
+  color: #2e2f42;
+}
+.p {
+  color: #434455;
+  font-weight: 400;
+}
+.images4 {
+  font-weight: 500;
+  letter-spacing: 2%;
+}
